@@ -1,0 +1,20 @@
+body{
+    background-color: #005f01;
+    color: white;
+}
+header{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.carta{
+    width: 130px;
+    position: relative;
+    margin-left: -30px;
+    left: 50px;
+}
+#cartasJugador,#cartasPC{
+    height: 200px;
+    
+}
